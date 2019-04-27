@@ -1,0 +1,80 @@
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\bin\Debug\GestionDuProduction.exe.config
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\bin\Debug\GestionDuProduction.exe
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\bin\Debug\GestionDuProduction.pdb
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\bin\Debug\EntityFramework.dll
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\bin\Debug\EntityFramework.xml
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.InitialModel.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.DatabaseUpdateV2.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.RenamePermissionsInGroupsTable.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.AddNormeRefColumnToNomenclatureTable.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.AddMassToNomenclatureTable.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.AddImportDateAndLotToMatierPrimaireTable.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.AddUpDateToMatierPrimaireTable.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.AddUserIdToMatierPrimaireTable.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.AddEtatColumnToMatierPrimaireTable.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.AddMPUtiliseTableAndSetRelationShips.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.PL.AddNomenclature.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.PL.AddOrdreFabrication.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.AddSequence.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.PL.AddComposant.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.PL.RemoteServerConfig.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Login.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Main.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.PL.MatierPrimaire.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Nomenclature.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.PL.UserGroup.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Properties.Resources.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Splash.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.User.resources
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.csproj.GenerateResource.cache
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.csproj.CoreCompileInputs.cache
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.csproj.CopyComplete
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.exe
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.pdb
+C:\Users\maher\source\repos\GestionDuProduction\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.f.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\bin\Debug\GestionDuProduction.exe.config
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\bin\Debug\GestionDuProduction.exe
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\bin\Debug\GestionDuProduction.pdb
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\bin\Debug\EntityFramework.dll
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\bin\Debug\EntityFramework.xml
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.InitialModel.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.PL.AddNomenclature.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.PL.AddOrdreFabrication.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.AddSequence.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.PL.AddComposant.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.PL.RemoteServerConfig.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.Login.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.Main.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.PL.MatierPrimaire.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.Nomenclature.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.PL.SuiviOF.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.PL.suiviseq.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.PL.UserGroup.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.Properties.Resources.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.Splash.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.User.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.csproj.GenerateResource.cache
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.csproj.CoreCompileInputs.cache
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.csproj.CopyComplete
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.exe
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.pdb
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.csprojAssemblyReference.cache
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.AddRestMPMassColumnToMatierPrimaireTable.resources
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\maher\source\repos\GestionDuProduction - Copie\GestionDuProduction\obj\Debug\GestionDuProduction.Migrations.CreateSuiviAvancementOFTable.resources
